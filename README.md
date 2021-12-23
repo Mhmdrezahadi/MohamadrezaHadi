@@ -1,4 +1,4 @@
-This is My Personal Website for Resume 
-And With Have A Weblog in Future
+This is my personal website for Resume 
+And will have A weblog in fFuture
 
 Created With Asp.net Razor Pages
